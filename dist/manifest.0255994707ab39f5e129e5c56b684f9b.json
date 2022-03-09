@@ -1,0 +1,49 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d2301351206dfe73c30972a9a9517ab3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_384x384.3c0fbac97b1d787b9d5583d7b4424284.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_256x256.21dcd0d080b12a5a9eb1b952f0253172.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_192x192.83c0f035e8abf826fc84d0a0966ef584.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_128x128.27621ace4dd75cda00953426e042a7fd.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon_96x96.9f8abd9d2351eb89d9533a88248f9029.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "name": "Petgram - Your pet photos app",
+  "short_name": "Petgram - Your pet photos app",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "shortname": "Petgram -🐱",
+  "description": "Find pet photos and use it as wallpaper",
+  "background_color": "#fff",
+  "theme_color": "#8d00ff"
+}
